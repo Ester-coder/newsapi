@@ -1,75 +1,163 @@
 {
-  "news": [
-  {
+  "news": [{
   "id": 1,
-  "title": "Stringtough",
+  "title": "Zamit",
   "category": "F",
-  "description": "Accord Healthcare, Inc.",
-  "author": "Christiane",
-  "time": "19:01"
+  "image": "http://dummyimage.com/128x102.png/dddddd/000000",
+  "description": "Chain Drug Marketing Association, Inc.",
+  "author": "Tammy",
+  "time": "11:21 PM"
 }, {
   "id": 2,
-  "title": "Kanlam",
+  "title": "Zathin",
   "category": "M",
-  "description": "Eisai Inc.",
-  "author": "Ingar",
-  "time": "5:10"
+  "image": "http://dummyimage.com/147x235.png/cc0000/ffffff",
+  "description": "Rebel Distributors Corp",
+  "author": "Sid",
+  "time": "7:24 AM"
 }, {
   "id": 3,
-  "title": "Alpha",
-  "category": "F",
-  "description": "McKesson (Health Mart)",
-  "author": "Greta",
-  "time": "13:07"
-}, {
-  "id": 4,
-  "title": "Zoolab",
-  "category": "M",
-  "description": "Hameln Pharma GmbH",
-  "author": "Rockey",
-  "time": "17:30"
-}, {
-  "id": 5,
-  "title": "Sonsing",
-  "category": "F",
-  "description": "Homeland Industrial Supply",
-  "author": "Cori",
-  "time": "4:26"
-}, {
-  "id": 6,
-  "title": "Rank",
-  "category": "F",
-  "description": "Camber Pharmaceuticals",
-  "author": "Morissa",
-  "time": "2:39"
-}, {
-  "id": 7,
-  "title": "Y-find",
-  "category": "F",
-  "description": "L.N.K. International, Inc.",
-  "author": "Vernice",
-  "time": "13:43"
-}, {
-  "id": 8,
-  "title": "Kanlam",
-  "category": "F",
-  "description": "Kroger Company",
-  "author": "Grace",
-  "time": "15:44"
-}, {
-  "id": 9,
   "title": "Stronghold",
   "category": "F",
-  "description": "Ningbo Dowland Daily Health Co., Ltd",
-  "author": "Jacklin",
-  "time": "5:57"
+  "image": "http://dummyimage.com/170x180.png/5fa2dd/ffffff",
+  "description": "Avon Products, Inc",
+  "author": "Feodora",
+  "time": "7:50 AM"
+}, {
+  "id": 4,
+  "title": "Kanlam",
+  "category": "M",
+  "image": "http://dummyimage.com/137x210.png/ff4444/ffffff",
+  "description": "Elizabeth Arden, Inc",
+  "author": "Alvan",
+  "time": "10:18 PM"
+}, {
+  "id": 5,
+  "title": "Regrant",
+  "category": "M",
+  "image": "http://dummyimage.com/115x159.png/5fa2dd/ffffff",
+  "description": "DZA Brands LLC",
+  "author": "Goddart",
+  "time": "2:58 PM"
+}, {
+  "id": 6,
+  "title": "Solarbreeze",
+  "category": "M",
+  "image": "http://dummyimage.com/102x165.png/cc0000/ffffff",
+  "description": "Teva Pharmaceuticals USA Inc",
+  "author": "Linus",
+  "time": "4:28 PM"
+}, {
+  "id": 7,
+  "title": "Tresom",
+  "category": "M",
+  "image": "http://dummyimage.com/242x222.png/cc0000/ffffff",
+  "description": "Cosmetic Enterprises Ltd.",
+  "author": "Zak",
+  "time": "2:06 PM"
+}, {
+  "id": 8,
+  "title": "Bamity",
+  "category": "M",
+  "image": "http://dummyimage.com/130x111.png/cc0000/ffffff",
+  "description": "Arbonne International, LLC",
+  "author": "Stillman",
+  "time": "8:11 PM"
+}, {
+  "id": 9,
+  "title": "Toughjoyfax",
+  "category": "M",
+  "image": "http://dummyimage.com/103x140.png/cc0000/ffffff",
+  "description": "AMAROS CO., LTD.",
+  "author": "Hammad",
+  "time": "3:09 AM"
 }, {
   "id": 10,
+  "title": "Bigtax",
+  "category": "M",
+  "image": "http://dummyimage.com/100x162.png/5fa2dd/ffffff",
+  "description": "Unit Dose Services",
+  "author": "Tyrone",
+  "time": "11:22 PM"
+}, {
+  "id": 11,
+  "title": "Lotlux",
+  "category": "F",
+  "image": "http://dummyimage.com/111x183.png/dddddd/000000",
+  "description": "Mallinckrodt, Inc.",
+  "author": "Fancy",
+  "time": "10:50 AM"
+}, {
+  "id": 12,
+  "title": "Zaam-Dox",
+  "category": "F",
+  "image": "http://dummyimage.com/172x234.png/cc0000/ffffff",
+  "description": "REMEDYREPACK INC.",
+  "author": "Kylie",
+  "time": "8:59 AM"
+}, {
+  "id": 13,
   "title": "Lotstring",
   "category": "M",
-  "description": "Dr. Fresh, Inc.",
-  "author": "Joaquin",
-  "time": "9:52"
-}
-  ]
+  "image": "http://dummyimage.com/229x156.png/cc0000/ffffff",
+  "description": "State of Florida DOH Central Pharmacy",
+  "author": "Eward",
+  "time": "6:09 PM"
+}, {
+  "id": 14,
+  "title": "Konklab",
+  "category": "M",
+  "image": "http://dummyimage.com/200x197.png/5fa2dd/ffffff",
+  "description": "International Nature Nutraceuticals",
+  "author": "Melvyn",
+  "time": "1:04 AM"
+}, {
+  "id": 15,
+  "title": "Fix San",
+  "category": "F",
+  "image": "http://dummyimage.com/114x141.png/5fa2dd/ffffff",
+  "description": "PD-Rx Pharmaceuticals, Inc.",
+  "author": "Brittaney",
+  "time": "7:51 AM"
+}, {
+  "id": 16,
+  "title": "Prodder",
+  "category": "F",
+  "image": "http://dummyimage.com/162x164.png/5fa2dd/ffffff",
+  "description": "Par Pharmaceutical Companies, Inc.",
+  "author": "Roslyn",
+  "time": "5:39 PM"
+}, {
+  "id": 17,
+  "title": "Lotstring",
+  "category": "M",
+  "image": "http://dummyimage.com/150x226.png/cc0000/ffffff",
+  "description": "Medi-Physics Inc.",
+  "author": "Dion",
+  "time": "5:44 PM"
+}, {
+  "id": 18,
+  "title": "Tempsoft",
+  "category": "M",
+  "image": "http://dummyimage.com/102x155.png/ff4444/ffffff",
+  "description": "The Mentholatum Company",
+  "author": "Garey",
+  "time": "6:54 AM"
+}, {
+  "id": 19,
+  "title": "Lotstring",
+  "category": "F",
+  "image": "http://dummyimage.com/249x117.png/ff4444/ffffff",
+  "description": "American Regent, Inc.",
+  "author": "Eunice",
+  "time": "3:27 AM"
+}, {
+  "id": 20,
+  "title": "Bigtax",
+  "category": "F",
+  "image": "http://dummyimage.com/199x155.png/5fa2dd/ffffff",
+  "description": "Anila, Inc.",
+  "author": "Pamella",
+  "time": "10:28 AM"
+}]
 }
